@@ -1,0 +1,17 @@
+ride_name,duration,min_height,has_express,is_kids_ride,is_thrill_ride,is_dark_ride,is_water_ride,has_indoor_queue
+despicable-me-minion-mayhem,8,40,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+et-adventure,4.5,34,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+fast-furious-supercharged,2.5,40,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+harry-potter-and-the-escape-from-gringotts,5,42,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+hogwarts-express-kings-cross-station,4,0,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+hollywood-rip-ride-rockit,1.5,51,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+illuminations-villaincon-minion-blast,5,0,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+kang-kodos-twirl-n-hurl,2,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+men-in-black-alien-attack,5,42,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+race-through-new-york-starring-jimmy-fallon,4,40,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+revenge-of-the-mummy,3,48,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+shrek-4d,16,0,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+the-simpsons-ride,4.5,40,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+transformers-the-rided,4.5,40,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+trolls-trollercoaster,2,36,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+woody-woodpeckers-nuthouse-coaster,1,36,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
